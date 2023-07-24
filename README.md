@@ -22,7 +22,7 @@ You have to install [Stylus](https://add0n.com/stylus.html) and then click on th
 [![Install Stylus][install-badge]][install-link]
 
 [install-badge]: https://img.shields.io/badge/Install%20Userstyle%20with-Stylus-116b59.svg?longCache=true&style=fla
-[install-link]: https://userstyles.world/style/11077/old-logo-twitter
+[install-link]: https://userstyles.world/style/11077/old-twitter-logo
 
 ## 🧑‍💻 Contributing
 
