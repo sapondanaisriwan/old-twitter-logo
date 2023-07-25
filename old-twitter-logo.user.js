@@ -3,6 +3,7 @@
 // @version      1.0.0
 // @description  bring back the old Twitter logo.
 // @author       sapondanaisriwan
+// @license      MIT
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @run-at       document-start
