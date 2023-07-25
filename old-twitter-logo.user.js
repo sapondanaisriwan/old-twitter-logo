@@ -11,7 +11,7 @@
 // @supportURL   https://github.com/sapondanaisriwan/old-twitter-logo/issues
 // ==/UserScript==
 
-// Customize the way you linking
+// Customize the way you liking
 const settings = {
   favicon_link: "https://abs.twimg.com/favicons/twitter.2.ico", // URL of the new Twitter favicon
   logo_color: "#1DA1F2", // Color for the custom logo
