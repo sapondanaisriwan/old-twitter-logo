@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Old Twitter Logo
-// @version      1.0.1
+// @version      1.0.2
 // @description  bring back the old Twitter logo.
 // @author       sapondanaisriwan
 // @license      MIT
