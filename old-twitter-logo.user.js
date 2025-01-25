@@ -4,7 +4,7 @@
 // @description  bring back the old Twitter logo.
 // @author       sapondanaisriwan
 // @license      MIT
-// @match        https://twitter.com/*
+// @match        *://x.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @run-at       document-start
 // @namespace    https://greasyfork.org/en/users/1021085-sapondanaisriwan
